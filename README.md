@@ -1,5 +1,5 @@
 # Minimizing-Economic-Cost-of-Power-Systems
-             **Minimizing Economic Cost for Power Systems with  Distinct Startup Times and Costs**
+             **Minimizing Economic Cost for Power Systems with  Distinct Startup Times and Costs
 
 *Abstract*: There many forms of power plant types in many different configurations that can be implemented in 
 grid design. This paper is meant to show an optimization method for steam, combined cycle and gas 
